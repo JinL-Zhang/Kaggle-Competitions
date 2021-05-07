@@ -3,3 +3,4 @@
 
 ## A3: Image Data. Binary Classification, Predict if the chest x-ray image is covid-19 positive or negative. The images are collected from different sources, were taken in different machines, and come with different resolutions (So some pre-processing techniques are necessary to be implemented). The training data can be viewed and retrieved from https://www.kaggle.com/c/cisc372-2021w-a3/data and https://github.com/CISC-372/Notebook/releases/download/a3/train.zip  
 
+##
