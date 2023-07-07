@@ -6,12 +6,14 @@ The dataset is the Airbnb listings of different areas in Montreal during 2019. I
 #### The data can be viewed&retrieved from: https://www.kaggle.com/c/cisc372-2021w-a2/data
 #### My Leaderboard Score (my name is 'Google Colab' on the leaderboard) can be viewed here: https://www.kaggle.com/competitions/cisc372-2021w-a2/leaderboard? 
 
+#
 ## A4: Text/Sequential data. Sentiment analysis. 
 A typical many-to-one sequence binary classification problem. The task is to classify if a given product review is positive or negative. Used recurrent neural network based approach (RNN, such as Bidirectional LSTM Architecture Model). The data set used in this competition relates to beauty product reviews from Amazon
 
 #### The data can be viewed&retrieved from: https://www.kaggle.com/c/cisc372-2021w-a4/data (The dataset simply contains three attributes: ID, review (text), and rating.) 
 #### My Leaderboard Score (my name is 'Google Colab' on the leaderboard) can be viewed here: https://www.kaggle.com/competitions/cisc372-2021w-a4/leaderboard
 
+#
 ## A3: Image Data. Binary Classification
 Predict if the chest x-ray image is covid-19 positive or negative. The images are collected from different sources, were taken in different machines, and come with different resolutions (So some pre-processing techniques are necessary to be implemented). 
 
